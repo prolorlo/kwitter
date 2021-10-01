@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTrash, faPencilAlt } from "@fortawesome/free-solid-svg-icons";
 
-const Kweet = ({ kweetObj, isOwner}) => {
+const Kweet = ({ kweetObj, isOwner, userObj}) => {
     const [editing, setEditing] = useState(false);
     const [newKweet, setNewKweet] = useState(kweetObj.text);
     const onDeleteClick = async () => {
@@ -50,6 +50,7 @@ const Kweet = ({ kweetObj, isOwner}) => {
           </span>
             </>
             ) : (<>
+            <h3>{userObj.displayName}</h3>
             <h4>{kweetObj.text}</h4>
             {kweetObj.attachmentUrl && <img src={kweetObj.attachmentUrl} />}
                 {isOwner && (
