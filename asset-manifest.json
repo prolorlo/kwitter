@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e11fba83.chunk.css",
-    "main.js": "/static/js/main.e00f4e0b.chunk.js",
-    "main.js.map": "/static/js/main.e00f4e0b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f0a6f165.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f0a6f165.js.map",
-    "static/js/2.f8e861e7.chunk.js": "/static/js/2.f8e861e7.chunk.js",
-    "static/js/2.f8e861e7.chunk.js.map": "/static/js/2.f8e861e7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e11fba83.chunk.css.map": "/static/css/main.e11fba83.chunk.css.map",
-    "static/js/2.f8e861e7.chunk.js.LICENSE.txt": "/static/js/2.f8e861e7.chunk.js.LICENSE.txt"
+    "main.css": "https://prolorlo.github.io/kwitter/static/css/main.e11fba83.chunk.css",
+    "main.js": "https://prolorlo.github.io/kwitter/static/js/main.5a17aec0.chunk.js",
+    "main.js.map": "https://prolorlo.github.io/kwitter/static/js/main.5a17aec0.chunk.js.map",
+    "runtime-main.js": "https://prolorlo.github.io/kwitter/static/js/runtime-main.c0390750.js",
+    "runtime-main.js.map": "https://prolorlo.github.io/kwitter/static/js/runtime-main.c0390750.js.map",
+    "static/js/2.348b8145.chunk.js": "https://prolorlo.github.io/kwitter/static/js/2.348b8145.chunk.js",
+    "static/js/2.348b8145.chunk.js.map": "https://prolorlo.github.io/kwitter/static/js/2.348b8145.chunk.js.map",
+    "index.html": "https://prolorlo.github.io/kwitter/index.html",
+    "static/css/main.e11fba83.chunk.css.map": "https://prolorlo.github.io/kwitter/static/css/main.e11fba83.chunk.css.map",
+    "static/js/2.348b8145.chunk.js.LICENSE.txt": "https://prolorlo.github.io/kwitter/static/js/2.348b8145.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0a6f165.js",
-    "static/js/2.f8e861e7.chunk.js",
+    "static/js/runtime-main.c0390750.js",
+    "static/js/2.348b8145.chunk.js",
     "static/css/main.e11fba83.chunk.css",
-    "static/js/main.e00f4e0b.chunk.js"
+    "static/js/main.5a17aec0.chunk.js"
   ]
 }
