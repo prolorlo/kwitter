@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://prolorlo.github.io/kwitter/static/css/main.e11fba83.chunk.css",
-    "main.js": "https://prolorlo.github.io/kwitter/static/js/main.5a17aec0.chunk.js",
-    "main.js.map": "https://prolorlo.github.io/kwitter/static/js/main.5a17aec0.chunk.js.map",
+    "main.js": "https://prolorlo.github.io/kwitter/static/js/main.163213f7.chunk.js",
+    "main.js.map": "https://prolorlo.github.io/kwitter/static/js/main.163213f7.chunk.js.map",
     "runtime-main.js": "https://prolorlo.github.io/kwitter/static/js/runtime-main.c0390750.js",
     "runtime-main.js.map": "https://prolorlo.github.io/kwitter/static/js/runtime-main.c0390750.js.map",
     "static/js/2.348b8145.chunk.js": "https://prolorlo.github.io/kwitter/static/js/2.348b8145.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c0390750.js",
     "static/js/2.348b8145.chunk.js",
     "static/css/main.e11fba83.chunk.css",
-    "static/js/main.5a17aec0.chunk.js"
+    "static/js/main.163213f7.chunk.js"
   ]
 }
