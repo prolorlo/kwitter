@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://prolorlo.github.io/kwitter/static/css/main.e11fba83.chunk.css",
-    "main.js": "https://prolorlo.github.io/kwitter/static/js/main.c3d63850.chunk.js",
-    "main.js.map": "https://prolorlo.github.io/kwitter/static/js/main.c3d63850.chunk.js.map",
-    "runtime-main.js": "https://prolorlo.github.io/kwitter/static/js/runtime-main.c0390750.js",
-    "runtime-main.js.map": "https://prolorlo.github.io/kwitter/static/js/runtime-main.c0390750.js.map",
-    "static/js/2.3d7e1aec.chunk.js": "https://prolorlo.github.io/kwitter/static/js/2.3d7e1aec.chunk.js",
-    "static/js/2.3d7e1aec.chunk.js.map": "https://prolorlo.github.io/kwitter/static/js/2.3d7e1aec.chunk.js.map",
-    "index.html": "https://prolorlo.github.io/kwitter/index.html",
-    "static/css/main.e11fba83.chunk.css.map": "https://prolorlo.github.io/kwitter/static/css/main.e11fba83.chunk.css.map",
-    "static/js/2.3d7e1aec.chunk.js.LICENSE.txt": "https://prolorlo.github.io/kwitter/static/js/2.3d7e1aec.chunk.js.LICENSE.txt"
+    "main.css": "/kwitter/static/css/main.e11fba83.chunk.css",
+    "main.js": "/kwitter/static/js/main.c0dd29a9.chunk.js",
+    "main.js.map": "/kwitter/static/js/main.c0dd29a9.chunk.js.map",
+    "runtime-main.js": "/kwitter/static/js/runtime-main.b068964e.js",
+    "runtime-main.js.map": "/kwitter/static/js/runtime-main.b068964e.js.map",
+    "static/js/2.4c19b268.chunk.js": "/kwitter/static/js/2.4c19b268.chunk.js",
+    "static/js/2.4c19b268.chunk.js.map": "/kwitter/static/js/2.4c19b268.chunk.js.map",
+    "index.html": "/kwitter/index.html",
+    "static/css/main.e11fba83.chunk.css.map": "/kwitter/static/css/main.e11fba83.chunk.css.map",
+    "static/js/2.4c19b268.chunk.js.LICENSE.txt": "/kwitter/static/js/2.4c19b268.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0390750.js",
-    "static/js/2.3d7e1aec.chunk.js",
+    "static/js/runtime-main.b068964e.js",
+    "static/js/2.4c19b268.chunk.js",
     "static/css/main.e11fba83.chunk.css",
-    "static/js/main.c3d63850.chunk.js"
+    "static/js/main.c0dd29a9.chunk.js"
   ]
 }
