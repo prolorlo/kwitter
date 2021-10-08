@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kwitter/static/css/main.fb68a9c1.chunk.css",
-    "main.js": "/kwitter/static/js/main.ffdce400.chunk.js",
-    "main.js.map": "/kwitter/static/js/main.ffdce400.chunk.js.map",
+    "main.js": "/kwitter/static/js/main.dad5726d.chunk.js",
+    "main.js.map": "/kwitter/static/js/main.dad5726d.chunk.js.map",
     "runtime-main.js": "/kwitter/static/js/runtime-main.b068964e.js",
     "runtime-main.js.map": "/kwitter/static/js/runtime-main.b068964e.js.map",
     "static/js/2.cf119a44.chunk.js": "/kwitter/static/js/2.cf119a44.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b068964e.js",
     "static/js/2.cf119a44.chunk.js",
     "static/css/main.fb68a9c1.chunk.css",
-    "static/js/main.ffdce400.chunk.js"
+    "static/js/main.dad5726d.chunk.js"
   ]
 }
